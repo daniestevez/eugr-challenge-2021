@@ -11,7 +11,7 @@ The description of the challenge can be seen
 
 I managed to solve this challenge shortly after it was published, and sent
 Jean-Michel a Jupyter notebook explaining my solution. Jean-Michel liked this
-approach and invited me present my solution at the conference. This presentation
+approach and invited me to present my solution at the conference. This presentation
 can be watched in the
 [recording of the conference
 livestream](https://youtu.be/iXshTqIpgKk?t=17353). This also includes some
